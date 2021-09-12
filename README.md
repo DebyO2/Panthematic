@@ -14,7 +14,7 @@ i have used these technilogies in my gamedev journey:
 
 ## Installation
 
-Install it from itch to play or if u want to see the source code u can see it at top
+Install it from itch to play or if u want to see the source code u can see it at top(all files not included and some files are assets which are like packages in python)
 
 ```bash
   1.Download the game from itch.io from this link https://debyo2.itch.io/panthematic
