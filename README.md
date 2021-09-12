@@ -27,3 +27,10 @@ Install it from itch to play or if u want to see the source code u can see it at
  - The source code does not include all the necessery files to use in unity , it only contains the scripts and other files like packages , metarials , fonts, etc are not here because of storage problems so u can just see the scripts
  - please if you want full game juice and higher FPS then please download the game instead of webGL because it will reduce the performance and some features
  - i have used assets in unity (Like the Quick outline asset) which are like packages in python so i think they cannot be counted as pre existing code 
+
+
+## How does the game fits the theme?
+
+- There are references to the current pandemic which is related to health
+- The game promotes the idea that eating carrots are healthy
+- It tells us to keep surviving and not to stop
