@@ -9,3 +9,14 @@ i have used these technilogies in my gamedev journey:
     (3) visual studios for c#
     (4) audacity
     (5) gimp
+
+
+
+## Installation
+
+Install it from itch to play or if u want to see the source code u can see it at top
+
+```bash
+  1.Download the game from itch.io from this link https://debyo2.itch.io/panthematic
+  2.Run the executable 
+```
