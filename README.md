@@ -34,3 +34,4 @@ Install it from itch to play or if u want to see the source code u can see it at
 - There are references to the current pandemic which is related to health
 - The game promotes the idea that eating carrots are healthy
 - It tells us to keep surviving and not to stop
+- It says not to go outside(in reference to you which is inside the car) in a pandemic
