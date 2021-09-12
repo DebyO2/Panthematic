@@ -20,3 +20,8 @@ Install it from itch to play or if u want to see the source code u can see it at
   1.Download the game from itch.io from this link https://debyo2.itch.io/panthematic
   2.Run the executable 
 ```
+
+
+## Notes
+
+ - The source code does not include all the necessery files to use in unity , it only contains the scripts and other files like packages , metarials , fonts, etc are not here because of storage problems so u can just see the scripts 
